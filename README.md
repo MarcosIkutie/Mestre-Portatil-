@@ -65,4 +65,6 @@ Mestre de RPG Portátil – seu amigo IA nas aventuras de D&D, sempre pronto par
 
 
 
-Este projeto está sob a MIT License.
+🛡️ Este projeto está protegido sob a licença Creative Commons CC BY-NC-SA 4.0.  
+Uso comercial requer autorização.  
+[Mais informações sobre a licença.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR)
