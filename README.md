@@ -74,27 +74,6 @@ print(tokenizer.decode(outputs[0]))
 
 
 
-Contributing
-Contributions are welcome. Feel free to suggest rule improvements, add more adventure data for training, or optimize memory management. Please open issues or pull requests on GitHub.
-
-License
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-
-You are free to:
-
-Share: Copy and redistribute the material in any medium or format.
-
-Adapt: Remix, transform, and build upon the material.
-
-Under the following terms:
-
-Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-
-NonCommercial: You may not use the material for commercial purposes without explicit, formal authorization.
-
-ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-Any use, implementation, or monetization without formal authorization is subject to retroactive compensation.
 
 
 
