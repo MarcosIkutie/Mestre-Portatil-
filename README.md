@@ -71,6 +71,9 @@ print(tokenizer.decode(outputs[0]))
 
 
 
+
+
+
 Contributing
 Contributions are welcome. Feel free to suggest rule improvements, add more adventure data for training, or optimize memory management. Please open issues or pull requests on GitHub.
 
